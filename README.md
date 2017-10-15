@@ -2,6 +2,8 @@
 
 Severn project contributor waivers.
 
+By adding a digital signature of the license to this repository, you affirm all of your contributions to Severn projects are released under the Severn license.
+
 ## Conduct
 
 Respect agency. Follow the [Code of Conduct](CODE_OF_CONDUCT.md).
