@@ -1,6 +1,6 @@
 # Contributors
 
-Severn project contributor waivers.
+Severn project contributor license signatures.
 
 By adding a digital signature of the license to this repository, you affirm all of your contributions to Severn projects are released under the Severn license.
 
